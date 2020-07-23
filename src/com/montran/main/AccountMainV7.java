@@ -8,7 +8,6 @@ import com.montran.pojo.Savings;
 public class AccountMainV7 {
 
 	public static void main(String[] args) {
-
 		Scanner sc = new Scanner(System.in);
 		Savings savings = null;
 		Current current = null;
